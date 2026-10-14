@@ -1,0 +1,21 @@
+{
+  "api": {
+    "base_url": "https://<tenant>.it-cpi001.cfapps.eu10.hana.ondemand.com",
+    "token_url": "https://<subdomain>.authentication.eu10.hana.ondemand.com/oauth/token",
+    "client_id": "<clientid of the service key>"
+  },
+  "env": "QA",
+  "poc": "Jane Doe",
+  "team_is": "BTP-IS Team",
+  "team_func": "Functional Team",
+  "team_sec": "Security Team",
+  "output_dir": "output",
+  "iflows": [
+    { "id": "IF_Example_One_to_SAPS4HANA", "interface_id": "RICEFW-1001" },
+    { "id": "IF_Example_Two_to_SAPS4HANA", "interface_id": "RICEFW-1002" }
+  ],
+  "extra_dependencies": [
+    { "package": "P66_Global_GenericHandlers", "artifact": "VM_Another_Value_Mapping", "type": "Value Mapping" }
+  ],
+  "exclude_dependencies": [ "SOME_ARTIFACT_ID_TO_LEAVE_OUT" ]
+}

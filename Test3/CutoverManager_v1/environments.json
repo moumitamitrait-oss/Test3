@@ -1,0 +1,20 @@
+{
+  "DEV": {
+    "clientid": "sb-2297c569-b0c5-49b8-8518-c263671ee909!b645731|it!b410334",
+    "clientsecret": "0e73355b-fb46-42c0-943e-6814894ac8f4$47NIR-v29kHDoo6JCVGzMtM6aGFDIxolaBE8io2jrjM=",
+    "tokenurl": "https://phillps66-reimagaine-dev-integration-lhbripr1.authentication.us10.hana.ondemand.com/oauth/token",
+    "url": "https://phillps66-reimagaine-dev-integration-lhbripr1.it-cpi034.cfapps.us10-002.hana.ondemand.com"
+  },
+  "QA": {
+    "clientid": "sb-2297c569-b0c5-49b8-8518-c263671ee909!b645731|it!b410334",
+    "clientsecret": "0e73355b-fb46-42c0-943e-6814894ac8f4$47NIR-v29kHDoo6JCVGzMtM6aGFDIxolaBE8io2jrjM=",
+    "tokenurl": "https://phillps66-reimagaine-dev-integration-lhbripr1.authentication.us10.hana.ondemand.com/oauth/token",
+    "url": "https://phillps66-reimagaine-dev-integration-lhbripr1.it-cpi034.cfapps.us10-002.hana.ondemand.com"
+  },
+  "PROD": {
+    "clientid": "sb-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx!b12345|it!b1234",
+    "clientsecret": "paste-the-prod-client-secret-here",
+    "tokenurl": "https://your-prod-subdomain.authentication.eu10.hana.ondemand.com/oauth/token",
+    "url": "https://your-prod-tenant-tmn.eu10.hana.ondemand.com"
+  }
+}

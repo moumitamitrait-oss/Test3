@@ -1,0 +1,10 @@
+{
+  "moumita.mitra@contractor.p66.com": {
+    "hash": "5eeaeee8262104fa0620b28796d5838425bfa8167b3fe7806f84e4d725e573b2",
+    "salt": "1bcba0e45040615586a845f68e48206e"
+  },
+  "srinivas.kaushik@contractor.p66.com": {
+    "hash": "8664d211508bf45a958253a3ef0a7a5928b1eee5d848d4cc7492af4c501053f0",
+    "salt": "3f3367077257988efbc378e3a509f557"
+  }
+}
